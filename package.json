@@ -1,0 +1,32 @@
+{
+  "name": "a-keychain",
+  "version": "1.0.0",
+  "description": "A RAM-Based Keychain in Node.js.",
+  "keywords": [
+    "keychain",
+    "node.js",
+    "node",
+    "node",
+    "js",
+    "nodejs",
+    "a",
+    "keychain",
+    "a-keychain",
+    "akeychain"
+  ],
+  "homepage": "https://github.com/lexyboi/keychain#readme",
+  "bugs": {
+    "url": "https://github.com/lexyboi/keychain/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexyboi/keychain.git"
+  },
+  "license": "Apache-2.0",
+  "author": "lexyboi (https://github.com/lexyboi)",
+  "type": "commonjs",
+  "main": "keychain.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
